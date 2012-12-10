@@ -8,6 +8,6 @@
 .gradle/
 .idea/
 build/
-.iml
+i0-test.iml
 mem.h2.db
 out/
